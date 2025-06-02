@@ -7,7 +7,7 @@ I'm a passionate data enthusiast with a degree in **Statistics and Programming**
 ### 💻 What I Do
 
 * I work with **Excel**, **SQL**, and **Power BI** to clean, analyze, and visualize data for insights that matter.
-* I’ve done **freelance/online projects** involving reporting dashboards, database querying, and data storytelling.
+* I’ve done ** projects** involving reporting dashboards, database querying, and data storytelling.
 * I enjoy turning raw data into meaningful narratives and visual summaries that support better decision-making.
 
 ### 📊 Interests
